@@ -1,8 +1,11 @@
 {
-  "name": "commander",
+  "name": "gendiff",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "gendiff.js",
   "type": "module",
+  "bin": {
+    "say-diff": "./gendiff.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
