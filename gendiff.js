@@ -2,6 +2,8 @@
 
 import { Command } from 'commander'
 
+const message = 'We have done it!'
+
 const program = new Command()
 
 program
@@ -9,3 +11,5 @@ program
   .version('0.0.1')
 
 program.parse()
+
+console.log(message)
