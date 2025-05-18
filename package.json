@@ -16,5 +16,8 @@
     "url": "https://github.com/SvetlanaPolunina/commander/issues"
   },
   "homepage": "https://github.com/SvetlanaPolunina/commander#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.0"
+  }
 }
