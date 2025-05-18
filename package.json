@@ -1,0 +1,20 @@
+{
+  "name": "commander",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvetlanaPolunina/commander.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvetlanaPolunina/commander/issues"
+  },
+  "homepage": "https://github.com/SvetlanaPolunina/commander#readme",
+  "description": ""
+}
